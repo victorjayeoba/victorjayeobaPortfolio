@@ -345,10 +345,7 @@ footer > .contact_wrapper > h2 {
   padding: 5rem !important;
   line-height: 1.8;
 }
-.work_wrapper.row_reverse {
-  width: 80%;
-  padding-right: 5rem;
-}
+
 .work_wrapper.row_reverse .website_link {
   color: var(--body-color);
 }
