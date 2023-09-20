@@ -50,7 +50,7 @@ const works = [
       group: "real works",
       title: "LookUp Search Engine",
       github: "https://github.com/victorjayeoba/lookup-engine",
-      link: "https://lookupsearch.netlify.app/",
+      link: "https://lookupsearch.vercel.app/",
       about: "This is a search engine built with <mark>NextJs (typesript)</mark>, <mark>TailwindCSS</mark> and <mark>Apis</mark>. <br/> It has different backend functionalities like dynamic routing and improved SEO, with this application you can search for anything on the internet and view recommended Profiles on dynamic pages. ",
    },
    {
@@ -58,7 +58,7 @@ const works = [
       group: "real works",
       title: "Dftrading Platform",
       github: "https://github.com/victorjayeoba/dft-client-website",
-      link: "https://dftrading.netlify.app/",
+      link: "https://dftrading.onrender.com/",
       about: "Dftrading is a landing Pages built with <mark>HTML</mark>, <mark>TailwindCSS</mark> and <mark>Javascript</mark>.  <br/> This landing page is for linking people interested in forex trading to a trading community that will teach them from scratch. ",
    },
    {
