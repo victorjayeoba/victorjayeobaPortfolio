@@ -1,3 +1,4 @@
+const submitBtn = document.getElementById("submitBtn")
 const works_wrapper = document.getElementById("works_wrapper");
 const filters = document.getElementsByClassName("filter")
 const nav = document.getElementById("nav")
@@ -5,6 +6,10 @@ const header = document.getElementById('home')
 
 var windowProgress = 0;
 var headerHeight = header.offsetHeight
+submitBtn.addEventListener("click",(e)=>{
+   alert("Service is unavailable but don't worry, you can reach out to me on this number: +2347026702294")
+})
+
 window.addEventListener("scroll", (e) => {
    /*     console.log(windowProgress) */
    if (windowProgress > e.currentTarget.scrollY && windowProgress > headerHeight - 50) {
