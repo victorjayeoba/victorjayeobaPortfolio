@@ -46,44 +46,36 @@ Array.from(filters).forEach((e) => e.addEventListener("click", () => {
 
 const works = [
    {
-      src: "/assets/images/lookup.png",
+      src: "/assets/images/renny_luxe.png",
       group: "real works",
+      title: "Renny Luxe",
+      github: "https://github.com/victorjayeoba/renny-luxe",
+      link: "https://renny-luxe.vercel.app/",
+      about: "Renny-Luxe is a dynamic e-commerce platform designed to provide a seamless shopping experience with a focus on modern design and responsive performance. Built with Next.js for a powerful frontend, Firebase as the backend, and Tailwind CSS for intuitive styling, this project reflects my commitment to crafting efficient, user-friendly applications. I implemented Framer Motion animations to enhance user interactions, and I use FireCMS to manage product data effectively ",
+   },
+   {
+      src: "/assets/images/merit.jpeg",
+      group: "real works",
+      title: "Merit AI",
+      github: "https://github.com/femix300/Merit",
+      link: "https://github.com/femix300/Merit",
+      about: "Merit AI is an innovative project developed to harness the power of artificial intelligence for enhancing productivity and decision-making. Collaborating with a team of skilled developers, I took charge of the frontend development, focusing on creating a responsive and user-friendly interface that aligns with the platform’s sophisticated backend capabilities. My contributions included implementing seamless user interactions and ensuring consistent performance across devices. This project highlights my ability to work effectively in a team, translating complex requirements into intuitive, accessible user experiences.",
+   },
+   {
+      src: "/assets/images/lookup.png",
+      group: "fun projects",
       title: "LookUp Search Engine",
       github: "https://github.com/victorjayeoba/lookup-engine",
       link: "https://lookupsearch.vercel.app/",
       about: "This is a search engine built with <mark>NextJs (typesript)</mark>, <mark>TailwindCSS</mark> and <mark>Apis</mark>. <br/> It has different backend functionalities like dynamic routing and improved SEO, with this application you can search for anything on the internet and view recommended Profiles on dynamic pages. ",
    },
    {
-      src: "/assets/images/dftrading.png",
-      group: "real works",
-      title: "Dftrading Platform",
-      github: "https://github.com/victorjayeoba/dft-client-website",
-      link: "https://dftrading.onrender.com/",
-      about: "Dftrading is a landing Pages built with <mark>HTML</mark>, <mark>TailwindCSS</mark> and <mark>Javascript</mark>.  <br/> This landing page is for linking people interested in forex trading to a trading community that will teach them from scratch. ",
-   },
-   {
       src: "/assets/images/gym_website.png",
-      group: "real works",
+      group: "fun projects",
       title: "Fitlab",
       github: "https://github.com/victorjayeoba/Gym",
       link: "https://fitlabgym.netlify.app/",
       about: "A gym landing page developed with <mark>ReactJs</mark> and <mark>Framer Motion</mark> with the primary purpose of convincing website visitors to patronize fitlab gym.",
-   },
-   {
-      src: "/assets/images/unsplash.jpg",
-      group: "real works",
-      github: "https://github.com/victorjayeoba/unsplash-clone-app",
-      link: "https://victorjayeoba.github.io/unsplash-clone-app/",
-      title: "Unsplash Clone App",
-      about: "This is clone of a popular free stock image download website,built with <mark>HTML</mark>, <mark>CSS</mark> and <mark>Javascript</mark>,<br/>This website is <mark>Highly Responsive</mark>",
-   },
-   {
-      src: "/assets/images/todo.jpg",
-      group: "fun projects",
-      github: "https://github.com/victorjayeoba/TODO-APP.github.io",
-      link: "https://victorjayeoba.github.io/TODO-APP.github.io/",
-      title: "Todo App",
-      about: "This is an application built with <mark>HTML</mark>, <mark>CSS</mark> and <mark>Javascript</mark>. It a simple to use apllication with complex functionalities like retrieval of previous todos even after refresh using <mark>localStorage</mark>, filter components and so on.",
    },
 
 ]
