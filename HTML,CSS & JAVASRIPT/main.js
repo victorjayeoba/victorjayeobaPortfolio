@@ -52,36 +52,38 @@ Array.from(filters).forEach((e) => e.addEventListener("click", () => {
 const works = [
    {
       src: "/assets/images/renny_luxe.png",
-      group: "real works",
+      group: "fun projects",
       title: "Renny Luxe",
       github: "https://github.com/victorjayeoba/renny-luxe",
       link: "https://renny-luxe.vercel.app/",
       about: "Renny-Luxe is a dynamic e-commerce platform designed to provide a seamless shopping experience with a focus on modern design and responsive performance. Built with Next.js for a powerful frontend, Firebase as the backend, and Tailwind CSS for intuitive styling, this project reflects my commitment to crafting efficient, user-friendly applications. I implemented Framer Motion animations to enhance user interactions, and I use FireCMS to manage product data effectively ",
    },
+   
    {
-      src: "/assets/images/merit.jpeg",
+      src: "/assets/images/meritai.png",
       group: "real works",
       title: "Merit AI",
       github: "https://github.com/femix300/Merit",
       link: "https://github.com/femix300/Merit",
-      about: "Merit AI is an innovative project developed to harness the power of artificial intelligence for enhancing productivity and decision-making. Collaborating with a team of skilled developers, I took charge of the frontend development, focusing on creating a responsive and user-friendly interface that aligns with the platform’s sophisticated backend capabilities. My contributions included implementing seamless user interactions and ensuring consistent performance across devices. This project highlights my ability to work effectively in a team, translating complex requirements into intuitive, accessible user experiences.",
+      about: "Merit is a full-stack project, built with React, Vite, TailwindCSS, Python, SQL, and REST APIs, it is an innovative platform leveraging artificial intelligence to enhance productivity and streamline decision-making for <mark>Nigerian sudents</mark>. As part of a talented development team, I contributed to the project by leading frontend development. I implemented a responsive, user-centric interface that seamlessly integrates with the platform’s advanced backend systems. ",
    },
    {
-      src: "/assets/images/lookup.png",
-      group: "fun projects",
-      title: "LookUp Search Engine",
-      github: "https://github.com/victorjayeoba/lookup-engine",
-      link: "https://lookupsearch.vercel.app/",
-      about: "This is a search engine built with <mark>NextJs (typesript)</mark>, <mark>TailwindCSS</mark> and <mark>Apis</mark>. <br/> It has different backend functionalities like dynamic routing and improved SEO, with this application you can search for anything on the internet and view recommended Profiles on dynamic pages. ",
+      src: "/assets/images/sunnydangaps.png",
+      group: "real works",
+      title: "Sunnydangaps Plumbing Solutions ",
+      github: "https://sunnydangaps.com/wp-admin",
+      link: "https://sunnydangaps.com/",
+      about: "Sunnydangaps Plumbing Solutions is a <mark>WordPress-based</mark> website designed for a professional plumbing company. The platform highlights the company’s expertise in delivering reliable plumbing services for residential, commercial, and industrial needs. With a user-friendly interface, the website makes it easy for clients to explore services, request quotes, and connect with the team for quick and efficient solutions. Sunny Danga Plumbing Solutions stands as a digital hub for quality plumbing services and customer satisfaction.",
    },
    {
-      src: "/assets/images/gym_website.png",
-      group: "fun projects",
-      title: "Fitlab",
-      github: "https://github.com/victorjayeoba/Gym",
-      link: "https://fitlabgym.netlify.app/",
-      about: "A gym landing page developed with <mark>ReactJs</mark> and <mark>Framer Motion</mark> with the primary purpose of convincing website visitors to patronize fitlab gym.",
+      src: "/assets/images/getlinkedai.png",
+      group: "real works",
+      title: "GetLinked AI Hackathon Project",
+      github: "https://github.com/victorjayeoba/getlinkedchallenge",
+      link: "https://getlinkedaichallenge.vercel.app/",
+      about: "GetLinked AI is a hackathon-driven project where a team of developers was challenged to replicate a sophisticated design in record time. The project combined creativity, technical expertise, and collaboration, showcasing the team’s ability to turn a static design into an interactive and fully functional application. Built under the constraints of tight deadlines, GetLinked AI represents the spirit of innovation, problem-solving, and teamwork that defines hackathons.",
    },
+
 
 ]
 
