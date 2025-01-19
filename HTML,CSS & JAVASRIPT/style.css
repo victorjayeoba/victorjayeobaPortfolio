@@ -724,6 +724,9 @@ footer h2 {
   .image_wrapper img {
     max-height: 25rem;
   }
+  .section_title{
+    margin-top: 10rem;
+  }
 }
 .hidden {
   opacity: 0;
